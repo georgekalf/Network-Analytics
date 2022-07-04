@@ -1,5 +1,4 @@
-![banner image](https://www.cisco.com/c/en_uk/solutions/analytics/what-is-network-analytics.html)
-
+![banner image](https://www.aihr.com/wp-content/uploads/Front.png)
 
 
 # Network-Analytics
