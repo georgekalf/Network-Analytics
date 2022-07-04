@@ -1,3 +1,7 @@
+![banner image](https://www.cisco.com/c/en_uk/solutions/analytics/what-is-network-analytics.html)
+
+
+
 # Network-Analytics
 
 ### Project background
